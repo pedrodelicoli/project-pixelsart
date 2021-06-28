@@ -1,0 +1,33 @@
+#title {
+  font-family: sans-serif;
+  color: black;
+}
+
+.color {
+  border: 1px solid black;
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+}
+
+#clear-board {
+  border: 1px solid black;
+  margin: 5px;
+}
+
+#pixel-board {
+  display: table;
+  border: 1px solid black;
+}
+
+#tr {
+  display: table-row;
+}
+
+.pixel {
+  border: 1px solid black;
+  width: 40px;
+  height: 42px;
+  display: table-cell;
+  background-color: white;
+}
